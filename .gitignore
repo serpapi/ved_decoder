@@ -1,0 +1,12 @@
+.DS_STORE
+*.bundle
+*.so
+*.dll
+*.swp
+Gemfile.lock
+tmp/
+.vscode/
+.yardoc
+bin/
+pkg/
+rdoc/

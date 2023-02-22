@@ -1,0 +1,10 @@
+package ved_decoder;
+
+message Ved
+{
+	optional uint64 index               = 1; // i
+	optional uint64 type                = 2; // t
+	optional uint64 sub_result_position = 5;
+	optional uint64 result_position     = 6; // r
+	optional uint64 start_page          = 7; // s
+}
